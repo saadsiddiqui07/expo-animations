@@ -5,3 +5,4 @@ Animations built with React Native Reanimated and Expo
 ## 1. Microphone Animation
 
 ![](../../Downloads//mic-animation.gif)
+![Uploading mic-animation.gif…]()
